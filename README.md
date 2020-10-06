@@ -12,6 +12,14 @@
 </p>
 -->
 
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=akashkmr27089&show_icons=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkmr27089&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![counter](https://enjs0hszc123wk9.m.pipedream.net) nerds and geeks come here :yum: 
+
+
+<!--
+
 <!--
 **akashkmr27089/akashkmr27089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
