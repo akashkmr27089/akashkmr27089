@@ -1,4 +1,4 @@
-### Hi there, I'am Aakash aka. SistoElemento👋
+### Hi there, I'm Aakash aka. SistoElemento👋
 
 <!--
 <p>
