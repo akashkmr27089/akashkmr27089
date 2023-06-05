@@ -1,5 +1,8 @@
 ### Hi there, I'm Aakash aka. SestoElemento👋
 
+Experienced Backend Engineer with a proven track record in delivering innovative solutions. Led a high-performing team, delivering a robust solutions for the products
+A triathlete and high-altitude mountain trekker, I thrive in challenging environments. A catalyst for change, I excel in initiating and driving improvements.
+
 <!--
 <p>
   <a href="https://www.linkedin.com/in/aakash-kumar-9a2287170/">
